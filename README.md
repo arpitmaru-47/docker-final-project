@@ -5,3 +5,5 @@ Architecture diagram
 Technologies used
 
 Setup instructions
+
+API endpoints
